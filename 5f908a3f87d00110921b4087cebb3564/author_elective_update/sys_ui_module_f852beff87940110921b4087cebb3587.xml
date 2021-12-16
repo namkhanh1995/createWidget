@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="x_snc_createnotes_note">fc52beff87940110921b4087cebb3584</application>
+        <filter/>
+        <name>x_snc_createnotes_notes</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_713169_createwid.x_snc_createnotes_note_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 10:35:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f852beff87940110921b4087cebb3587</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_createnotes_notes</sys_name>
+        <sys_package display_value="CreateWidget" source="x_713169_createwid">5f908a3f87d00110921b4087cebb3564</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateWidget">5f908a3f87d00110921b4087cebb3564</sys_scope>
+        <sys_update_name>sys_ui_module_f852beff87940110921b4087cebb3587</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 10:35:06</sys_updated_on>
+        <table>x_713169_createwid_x_snc_createnotes_note</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateWidget">5f908a3f87d00110921b4087cebb3564</application>
+        <file_path/>
+        <instance_id>6308cd2bdbbcfb4052dd2f17d49619eb</instance_id>
+        <instance_name>dev82162</instance_name>
+        <name>sys_ui_module_f852beff87940110921b4087cebb3587</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="x_snc_createnotes_note">fc52beff87940110921b4087cebb3584</application><filter/><name>x_snc_createnotes_notes</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_713169_createwid.x_snc_createnotes_note_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-15 10:35:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f852beff87940110921b4087cebb3587</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_createnotes_notes</sys_name><sys_package display_value="CreateWidget" source="x_713169_createwid">5f908a3f87d00110921b4087cebb3564</sys_package><sys_policy/><sys_scope display_value="CreateWidget">5f908a3f87d00110921b4087cebb3564</sys_scope><sys_update_name>sys_ui_module_f852beff87940110921b4087cebb3587</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-15 10:35:06</sys_updated_on><table>x_713169_createwid_x_snc_createnotes_note</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1999208596</payload_hash>
+        <record_name>x_snc_createnotes_notes</record_name>
+        <reverted_from/>
+        <source>cbd0c23387140110921b4087cebb351a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 10:35:06</sys_created_on>
+        <sys_id>b452beff87940110921b4087cebb358a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17dbda8f7220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 10:35:06</sys_updated_on>
+        <type>Module</type>
+        <update_guid>fc52beffb89401100b7094e6f1c64189</update_guid>
+        <update_guid_history>fc52beffb89401100b7094e6f1c64189:-1999208596</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-16 01:34:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>8add82146b154060b930a64b15262379</sys_id>
+        <sys_metadata>f852beff87940110921b4087cebb3587</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_createnotes_notes</sys_name>
+        <sys_package display_value="CreateWidget" source="x_713169_createwid">5f908a3f87d00110921b4087cebb3564</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateWidget">5f908a3f87d00110921b4087cebb3564</sys_scope>
+        <sys_scope_delete display_value="">475f17bce576494aa493d0447c17cc04</sys_scope_delete>
+        <sys_update_name>sys_ui_module_f852beff87940110921b4087cebb3587</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_f852beff87940110921b4087cebb3587">b452beff87940110921b4087cebb358a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-16 01:34:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

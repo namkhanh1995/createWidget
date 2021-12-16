@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_713169_createwid_x_snc_createnotes_note" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_713169_createwid_x_snc_createnotes_note" element="NULL" name="x_713169_createwid_x_snc_createnotes_note" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd2e7d4087200110921b4087cebb35f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-16 01:25:35</sys_created_on>
+            <sys_id>812e7d4087200110921b4087cebb35f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-16 01:25:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_713169_createwid_x_snc_createnotes_note</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-16 01:25:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd2e7d4087200110921b4087cebb35f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_713169_createwid_x_snc_createnotes_note</sys_name>
+            <sys_package display_value="CreateWidget" source="x_713169_createwid">5f908a3f87d00110921b4087cebb3564</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CreateWidget">5f908a3f87d00110921b4087cebb3564</sys_scope>
+            <sys_update_name>sys_ui_list_x_713169_createwid_x_snc_createnotes_note_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-16 01:25:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateWidget">5f908a3f87d00110921b4087cebb3564</application>
+        <file_path/>
+        <instance_id>6308cd2bdbbcfb4052dd2f17d49619eb</instance_id>
+        <instance_name>dev82162</instance_name>
+        <name>sys_ui_list_x_713169_createwid_x_snc_createnotes_note_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_713169_createwid_x_snc_createnotes_note" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_713169_createwid_x_snc_createnotes_note" element="NULL" name="x_713169_createwid_x_snc_createnotes_note" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd2e7d4087200110921b4087cebb35f5</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-16 01:25:35</sys_created_on><sys_id>812e7d4087200110921b4087cebb35f8</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-16 01:25:35</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_713169_createwid_x_snc_createnotes_note</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-16 01:25:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cd2e7d4087200110921b4087cebb35f5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_713169_createwid_x_snc_createnotes_note</sys_name><sys_package display_value="CreateWidget" source="x_713169_createwid">5f908a3f87d00110921b4087cebb3564</sys_package><sys_policy/><sys_scope display_value="CreateWidget">5f908a3f87d00110921b4087cebb3564</sys_scope><sys_update_name>sys_ui_list_x_713169_createwid_x_snc_createnotes_note_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-16 01:25:35</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-1495566446</payload_hash>
+        <record_name>x_snc_createnotes_note</record_name>
+        <reverted_from/>
+        <source>cbd0c23387140110921b4087cebb351a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-16 01:25:35</sys_created_on>
+        <sys_id>4d2e7d8087200110921b4087cebb356d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17dc0d838410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-16 01:25:35</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>0d2e7d80ee2001102ac4876ff704b46d</update_guid>
+        <update_guid_history>0d2e7d80ee2001102ac4876ff704b46d:-1495566446</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-16 01:34:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>614a48ba9bca4fa88c672d1855408240</sys_id>
+        <sys_metadata>cd2e7d4087200110921b4087cebb35f5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_713169_createwid_x_snc_createnotes_note</sys_name>
+        <sys_package display_value="CreateWidget" source="x_713169_createwid">5f908a3f87d00110921b4087cebb3564</sys_package>
+        <sys_parent display_value="">59223eff87940110921b4087cebb351a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CreateWidget">5f908a3f87d00110921b4087cebb3564</sys_scope>
+        <sys_scope_delete display_value="">475f17bce576494aa493d0447c17cc04</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_713169_createwid_x_snc_createnotes_note_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_713169_createwid_x_snc_createnotes_note_null">4d2e7d8087200110921b4087cebb356d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-16 01:34:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
